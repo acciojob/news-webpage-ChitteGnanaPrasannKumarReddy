@@ -5,7 +5,6 @@ body {
     font-family: Arial, sans-serif;
 }
 
-
 .header {
     background-color: #011e29;
     color: white;
@@ -13,43 +12,22 @@ body {
     padding: 20px 0;
 }
 
-
-.latest-news-section {
-    background-color: #ffffff; 
-    padding: 20px;
-    margin: 20px auto;  
-    width: 80%; 
-    border-radius: 8px;
-    text-align: left; 
-}
-
-.latest-news-section h2 {
-    margin-bottom: 15px; 
-}
-
-.latest-news-section ul {
-    list-style-type: none; 
-    padding: 0;
-}
-
-.latest-news-section li {
-    padding: 10px 0;
-    border-bottom: 1px solid #ddd; 
-}
-
-.latest-news-section li:last-child {
-    border-bottom: none; 
-}
-
-
+.latest-news-section,
 .pictorial-news-section {
-    background-color: #ffffff; 
+    background-color: #ffffff;
     padding: 20px;
-    margin: 20px auto; 
-    width: 80%; 
+    margin: 20px auto;
+    width: 70%;
+    border-radius: 8px;
     text-align: center; 
+}
+
+.pictorial-news-section img {
+    margin: 10px 0;
+    width: 100%;
+    height: auto;
     border-radius: 8px;
 }
 
-.pictorial-news-section h3 {
-    margin-bottom: 15px; 
+
+
