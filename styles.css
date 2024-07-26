@@ -12,15 +12,19 @@ body {
     padding: 20px 0;
 }
 
+	
+
 .latest-news-section,
 .pictorial-news-section {
     background-color: #ffffff;
     padding: 20px;
     margin: 20px auto;
-    width: 70%;
+    width: 30%;
     border-radius: 8px;
     text-align: center; 
 }
+
+	
 
 .pictorial-news-section img {
     margin: 10px 0;
