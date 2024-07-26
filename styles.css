@@ -9,7 +9,7 @@ body {
 .header {
   background-color: #011e29;
   color: white;
-  text-align: center;
+  text-align: start;
   padding: 20px 0;
 }
 
@@ -20,7 +20,7 @@ body {
   margin: 10px 0;
   width: 70%;
   border-radius: 5px;
-  text-align: center;
+  text-align: start;
 }
 
 .latest-news-section h2,
