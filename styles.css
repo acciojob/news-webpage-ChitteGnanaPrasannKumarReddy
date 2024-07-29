@@ -16,18 +16,18 @@ body {
     padding: 20px;
 }
 
-.latest-news-section, .pictorial-news-section, .main-article-section {
+.latest-news-section, .pictorial-news-section, .main-article-section{
     background-color: white;
     padding: 20px;
     border-radius: 8px;
-    width: 30%;
 }
 
 .latest-news-section {
-    width: 30%;
+    width: 20%;
 }
 
 .pictorial-news-section {
+    width: 20%;
     text-align: center;
 }
 
